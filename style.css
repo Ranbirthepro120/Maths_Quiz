@@ -1,0 +1,83 @@
+body
+{
+	background:url(ewers.jpg);
+	background-size: contain;
+	background-size: auto;
+}
+
+	.login1 , .login2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		color: darkcyan;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		font: Georgia;
+	}
+
+
+#player1 , #player2
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid darkcyan;
+padding: 10px;
+float: none;
+text-align: left;
+}
+.mq
+{
+	font-size: 50px;
+	font-family: fantasy;
+	color: white;
+}
+#input1, #input2
+{
+	background-color: darkcyan;
+	color: white;
+}
+h5
+{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: white;
+	font-size: 15px;
+}
+.nmbr
+{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font: Georgia;
+	font-size: 20px;
+	color: white;
+}
+#numberinput1, #numberinput2
+{
+	background-color: cyan;
+	color: white;
+	width: 250px;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font: Georgia;
+}
+#button
+{
+	width:30%; 
+    color: darkcyan; 
+	background-color: white;
+	font-family: fantasy;
+	font-size: 20px;
+	display: inline-block;
+}
